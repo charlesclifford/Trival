@@ -1,1 +1,1 @@
-# TRIVAL Capstone Proposal .BLKN-492
+# TRIVAL Capstone Proposal. BLKN-492
